@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋, my name is Abdulrahman Habib
+#### Software Engineer
+![Software Engineer](https://pbs.twimg.com/profile_images/1844405996254359561/p3iT23GF_400x400.jpg)
 
-<!--
-**abdohabib447/abdohabib447** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Mobile App Developer with expertise in building dynamic, user-friendly applications using Flutter and other mobile development frameworks.
 
-Here are some ideas to get you started:
+💼 I have experience in developing apps for both iOS and Android platforms.
+🛠 Skilled in Flutter, Dart, and Provider for state management, with a focus on creating clean, scalable code.
+🚀 Constantly learning new technologies and improving my skills to deliver high-quality mobile solutions.
+🌐 Open to collaborating on exciting projects, contributing to open-source, and learning from the community!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: java / c++ / python / dart
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdohabib447)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdulrahman-habib-b40693265/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/abdohabib447)  
+
