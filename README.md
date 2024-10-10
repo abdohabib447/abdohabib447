@@ -9,7 +9,10 @@
 🚀 Constantly learning new technologies and improving my skills to deliver high-quality mobile solutions.
 🌐 Open to collaborating on exciting projects, contributing to open-source, and learning from the community!
 
-Skills: java / c++ / python / dart
+Skills: java *
+/ c++ *
+/ python *
+/ dart
 
 - 🔭 I’m currently working on this page. 
 
