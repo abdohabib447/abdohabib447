@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Abdulrahman Habib
-#### Software Engineer
+### Hi my name is Abdulrahman Habib
+#### I am Software Engineer
 ![Software Engineer](https://pbs.twimg.com/profile_images/1844405996254359561/p3iT23GF_400x400.jpg)
 
  Mobile App Developer with expertise in building dynamic, user-friendly applications using Flutter and other mobile development frameworks.
