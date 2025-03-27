@@ -20,15 +20,16 @@ Passionate about building high-quality mobile applications that enhance user exp
 
 - **Languages**: Dart, Java, C++, Python  
 - **Frameworks**: Flutter  
+- **State Management**: Provider  
 - **Tools & Platforms**: Firebase, Git, Android Studio, VS Code  
 
 ---
 
 ## 📬 Connect With Me  
 
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/abdohabib447)  
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/abdulrahman-habib-b40693265/)  
-[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg)](https://twitter.com/abdohabib447)  
+<a href="https://github.com/abdohabib447"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="25px"></a>  
+<a href="https://www.linkedin.com/in/abdulrahman-habib-b40693265/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="25px"></a>  
+<a href="https://twitter.com/abdohabib447"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="25px"></a>  
 
 ---
 
