@@ -28,7 +28,7 @@ Passionate about building high-quality mobile applications that enhance user exp
 ## 📬 Connect With Me  
 
 <a href="https://github.com/abdohabib447"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="25px"></a>  
-<a href="https://www.linkedin.com/in/abdulrahman-habib-b40693265/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="25px"></a>  
+<a href="https://www.linkedin.com/in/abdulrahman-habib-979969351/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="25px"></a>  
 <a href="https://twitter.com/abdohabib447"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="25px"></a>  
 
 ---
